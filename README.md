@@ -1,11 +1,11 @@
 ### Quiz Answers :
 
-1 To provide predictable
-2 Micrchains
-3 By introducing elastic validators
-4 Rust
-5 Through asynchronous
-6 Dpos
+- 1 To provide predictable
+- 2 Micrchains
+- 3 By introducing elastic validators
+- 4 Rust
+- 5 Through asynchronous
+- 6 Dpos
 7 Each microchains
 8 They can scale horizontal
 9 To enable short-team
